@@ -1,0 +1,14 @@
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\bin\Release\TVC_Macros_Installer.exe.config
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\bin\Release\TVC_Macros_Installer.exe
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\bin\Release\TVC_Macros_Installer.pdb
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\MainWindow.g.cs
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\App.g.cs
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer_MarkupCompile.cache
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer_MarkupCompile.lref
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\MainWindow.baml
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.g.resources
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.Properties.Resources.resources
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.csproj.GenerateResource.Cache
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.exe
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.pdb
+C:\Users\ololonly\documents\visual studio 2017\Projects\TVC_Macros_Installer\TVC_Macros_Installer\obj\Release\TVC_Macros_Installer.csprojResolveAssemblyReference.cache
